@@ -1,0 +1,31 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    border:solid rosybrown;
+    height: 100vh;
+}
+article{
+    border:solid pink 4px;
+    border-radius: 10px;
+    width: 200px;
+    height: 150px;
+    text-align: center;
+    color: salmon;
+    background-color: aqua;
+    padding: 20px;
+    margin: auto;
+}
+img{
+    border-radius: 50%;
+    width: 100px;
+    height: auto;
+    object-fit: contain;
+    
+}
+.parrafo2{
+    color:aquamarine;
+    font-size: 40px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}

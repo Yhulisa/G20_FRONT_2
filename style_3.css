@@ -1,0 +1,18 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    border:solid rosybrown;
+    height: 100vh;
+    
+}
+.imagen_1{  
+    width: 960pxpx;
+    height: 525px;
+    background-image: url("./Mask\ Group.png");
+    text-align: center;
+    color: salmon;
+    padding: 20px;
+    margin: auto;
+}

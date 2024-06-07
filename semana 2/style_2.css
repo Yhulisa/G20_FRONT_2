@@ -1,0 +1,54 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    border:solid rosybrown;
+    height: 100vh;
+    
+}
+article{
+    border:solid rgb(223, 23, 56) 4px;
+    border-radius: 10px;
+    width: 200px;
+    height: 100px;
+    text-align: center;
+    color: salmon;
+    background-color: aqua;
+    padding: 20px;
+    margin: auto;
+}
+.h1{
+    border:solid rgb(223, 23, 56) 4px;
+    border-radius: 10px;
+    width: 300px;
+    height: 100px;
+    text-align: center;
+    color: salmon;
+    background-color: aqua;
+    padding: 20px;
+    margin: auto;
+}
+.h2{
+    border:solid rgb(223, 23, 56) 4px;
+    border-radius: 10px;
+    width: 500px;
+    height: 150px;
+    text-align: center;
+    color: salmon;
+    background-color: aqua;
+    padding: 20px;
+    margin: auto;
+}
+.h3{
+    border:solid rgb(223, 23, 56) 4px;
+    border-radius: 10px;
+    width: 800px;
+    height: 250px;
+    text-align: center;
+    color: salmon;
+    background-color: aqua;
+    padding: 20px;
+    margin: auto; 
+}
+
