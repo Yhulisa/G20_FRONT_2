@@ -1,0 +1,33 @@
+*{
+    margin:0;
+    padding:0;
+}
+body{
+    border:solid;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+}
+ul{
+    display: flex;
+    color: pink;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+li{
+    margin-right: 10px;
+    list-style: none;
+}
+.contenedor{
+    border: solid;
+    height: 300px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.cuadrado{
+    margin-right: 10px;
+    width: 100px;
+    height: 300px;
+    background-color: aquamarine;
+}
